@@ -3,7 +3,7 @@
 <img src="https://yt3.ggpht.com/dBwhvX2iF121h0UWumMKi5_4cPclBTKIdIm3KM9KroRUcLWrLkppDf67dIDH-i_YrBAupazR=s900-c-k-c0x00ffffff-no-rj" align="right"
      alt="TodoList" width="150" height="150">
 
-A simple unity 3D game built using skybox. **Skyboxes** are wrappers around your entire scene
+A basic unity 3D game built using skybox. **Skyboxes** are wrappers around your entire scene
 that shows what the world looks like beyond your geometry.
 
 * **Look around** using your mouse.
