@@ -8,9 +8,9 @@ that shows what the world looks like beyond your geometry.
 
 * **Look around** using your mouse.
 * **Move** the player using keys on your keyboard.
-* **Has** wall texture.
-* **Has** floor texture.
-* **Has** a world wrapper around the scene using skybox.
+* **Wall** textures.
+* **Floor** textures.
+* **World** wrapper around the scene using skybox.
 
 
 ## Technologies used in this project:
